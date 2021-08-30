@@ -1,0 +1,299 @@
+[
+    {
+        "name": "Damak",
+        "province": 1,
+        "location": {
+            "lat": 26.6717,
+            "lng": 87.6680
+        },
+        "station": 1
+    },
+    {
+        "name": "Bhadrapur",
+        "province": 1,
+        "location": {
+            "lat": 26.5363,
+            "lng": 88.0803
+        },
+        "station": 1
+    },
+    {
+        "name": "Kankai",
+        "province": 1,
+        "location": {
+            "lat": 26.6518,
+            "lng": 87.9041
+        },
+        "station": 1
+    },
+    {
+        "name": "Biratnagar",
+        "province": 1,
+        "location": {
+            "lat": 26.4525,
+            "lng": 87.2718
+        },
+        "station": 1
+    },
+    {
+        "name": "Itahari",
+        "province": 1,
+        "location": {
+            "lat": 26.6646,
+            "lng": 87.2718
+        },
+        "station": 1
+    },
+    {
+        "name": "Birgunj",
+        "province": 2,
+        "location": {
+            "lat": 27.0449,
+            "lng": 84.8672
+        },
+        "station": 1
+    },
+    {
+        "name": "Simara",
+        "province": 2,
+        "location": {
+            "lat": 27.1600,
+            "lng": 84.9700
+        },
+        "station": 1
+    },
+    {
+        "name": "Chandranigahapur",
+        "province": 2,
+        "location": {
+            "lat": 27.1681,
+            "lng": 85.3756
+        },
+        "station": 1
+    },
+    {
+        "name": "Dhalkebar",
+        "province": 2,
+        "location": {
+            "lat": 26.9500,
+            "lng": 85.8000
+        },
+        "station": 1
+    },
+    {
+        "name": "Janakpur Dham",
+        "province": 2,
+        "location": {
+            "lat": 26.7271,
+            "lng": 85.9407
+        },
+        "station": 1
+    },
+    {
+        "name": "Bardibas",
+        "province": 2,
+        "location": {
+            "lat": 27.0425,
+            "lng": 85.8691
+        },
+        "station": 1
+    },
+    {
+        "name": "Rajbiraj",
+        "province": 2,
+        "location": {
+            "lat": 26.5419,
+            "lng": 86.7567
+        },
+        "station": 1
+    },
+    {
+        "name": "Malekhu",
+        "province": 3,
+        "location": {
+            "lat": 27.8093,
+            "lng": 84.8294
+        },
+        "station": 2
+    },
+    {
+        "name": "Sindhuli",
+        "province": 3,
+        "location": {
+            "lat": 27.2569,
+            "lng": 85.9713
+        },
+        "station": 2
+    },
+    {
+        "name": "Hetauda",
+        "province": 3,
+        "location": {
+            "lat": 27.4368,
+            "lng": 85.0026
+        },
+        "station": 2
+    },
+    {
+        "name": "Bharatpur",
+        "province": 3,
+        "location": {
+            "lat": 27.6706,
+            "lng": 84.4385
+        },
+        "station": 2
+    },
+    {
+        "name": "Mugling Kurintar",
+        "province": 3,
+        "location": {
+            "lat": 27.8561,
+            "lng": 84.5615
+        },
+        "station": 4
+    },
+    {
+        "name": "Banepa",
+        "province": 3,
+        "location": {
+            "lat": 27.6332,
+            "lng": 85.5277
+        },
+        "station": 1
+    },
+    {
+        "name": "Kathmandu Valley",
+        "province": 3,
+        "location": {
+            "lat": 27.7172,
+            "lng": 85.3240
+        },
+        "station": 7
+    },
+    {
+        "name": "Nawalpur",
+        "province": 4,
+        "location": {
+            "lat": 27.8149,
+            "lng": 85.6281
+        },
+        "station": 1
+    },
+    {
+        "name": "Damauli",
+        "province": 4,
+        "location": {
+            "lat": 27.9819,
+            "lng": 84.2805
+        },
+        "station": 1
+    },
+    {
+        "name": "Syangja",
+        "province": 4,
+        "location": {
+            "lat": 28.0197,
+            "lng": 83.8049
+        },
+        "station": 1
+    },
+    {
+        "name": "Pokhara",
+        "province": 4,
+        "location": {
+            "lat": 28.2096,
+            "lng": 83.9856
+        },
+        "station": 3
+    },
+    {
+        "name": "Nepalgunj",
+        "province": 5,
+        "location": {
+            "lat": 28.0548,
+            "lng": 81.6145
+        },
+        "station": 1
+    },
+    {
+        "name": "Bhalubang",
+        "province": 5,
+        "location": {
+            "lat": 27.8342,
+            "lng": 82.7509
+        },
+        "station": 1
+    },
+    {
+        "name": "Dang",
+        "province": 5,
+        "location": {
+            "lat": 28.0000,
+            "lng": 82.4753
+        },
+        "station": 1
+    },
+    {
+        "name": "Rupandehi",
+        "province": 5,
+        "location": {
+            "lat": 27.5330,
+            "lng": 83.3789
+        },
+        "station": 1
+    },
+    {
+        "name": "Bardaghat",
+        "province": 5,
+        "location": {
+            "lat": 27.5404,
+            "lng": 83.7943
+        },
+        "station": 2
+    },
+    {
+        "name": "Sunwal",
+        "province": 5,
+        "location": {
+            "lat": 27.6272,
+            "lng": 83.6455
+        },
+        "station": 2
+    },
+    {
+        "name": "Surkhet",
+        "province": 6,
+        "location": {
+            "lat": 28.5175,
+            "lng": 81.7787
+        },
+        "station": 1
+    },
+    {
+        "name": "Mahendranagar",
+        "province": 7,
+        "location": {
+            "lat": 28.9873,
+            "lng": 80.1652
+        },
+        "station": 1
+    },
+    {
+        "name": "Dhangadhi",
+        "province": 7,
+        "location": {
+            "lat": 28.6852,
+            "lng": 80.6216
+        },
+        "station": 1
+    },
+    {
+        "name": "Dadeldhura",
+        "province": 7,
+        "location": {
+            "lat": 29.2188,
+            "lng": 80.4994
+        },
+        "station": 1
+    }
+]
